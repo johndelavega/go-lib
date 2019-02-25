@@ -7,7 +7,7 @@ package golib
 
 import "fmt"
 
-const _moduleVersion = "v0.0.0"
+const _moduleVersion = "v0.0.1"
 
 const _packageVersion = "v0.0.0"
 
